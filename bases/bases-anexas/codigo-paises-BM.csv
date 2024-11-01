@@ -1,0 +1,216 @@
+"Country.Name","Country.Code","Region.Name","Country.or.Area","M49.Code"
+"Afghanistan","AFG","Asia","Afghanistan",4
+"Albania","ALB","Europe","Albania",8
+"Algeria","DZA","Africa","Algeria",12
+"American Samoa","ASM","Oceania","American Samoa",16
+"Andorra","AND","Europe","Andorra",20
+"Angola","AGO","Africa","Angola",24
+"Antigua and Barbuda","ATG","Americas","Antigua and Barbuda",28
+"Argentina","ARG","Americas","Argentina",32
+"Armenia","ARM","Asia","Armenia",51
+"Aruba","ABW","Americas","Aruba",533
+"Australia","AUS","Oceania","Australia",36
+"Austria","AUT","Europe","Austria",40
+"Azerbaijan","AZE","Asia","Azerbaijan",31
+"Bahamas, The","BHS","Americas","Bahamas",44
+"Bahrain","BHR","Asia","Bahrain",48
+"Bangladesh","BGD","Asia","Bangladesh",50
+"Barbados","BRB","Americas","Barbados",52
+"Belarus","BLR","Europe","Belarus",112
+"Belgium","BEL","Europe","Belgium",56
+"Belize","BLZ","Americas","Belize",84
+"Benin","BEN","Africa","Benin",204
+"Bermuda","BMU","Americas","Bermuda",60
+"Bhutan","BTN","Asia","Bhutan",64
+"Bolivia","BOL","Americas","Bolivia (Plurinational State of)",68
+"Bosnia and Herzegovina","BIH","Europe","Bosnia and Herzegovina",70
+"Botswana","BWA","Africa","Botswana",72
+"Brazil","BRA","Americas","Brazil",76
+"British Virgin Islands","VGB","Americas","British Virgin Islands",92
+"Brunei Darussalam","BRN","Asia","Brunei Darussalam",96
+"Bulgaria","BGR","Europe","Bulgaria",100
+"Burkina Faso","BFA","Africa","Burkina Faso",854
+"Burundi","BDI","Africa","Burundi",108
+"Cabo Verde","CPV","Africa","Cabo Verde",132
+"Cambodia","KHM","Asia","Cambodia",116
+"Cameroon","CMR","Africa","Cameroon",120
+"Canada","CAN","Americas","Canada",124
+"Cayman Islands","CYM","Americas","Cayman Islands",136
+"Central African Republic","CAF","Africa","Central African Republic",140
+"Chad","TCD","Africa","Chad",148
+"Chile","CHL","Americas","Chile",152
+"China","CHN","Asia","China",156
+"Colombia","COL","Americas","Colombia",170
+"Comoros","COM","Africa","Comoros",174
+"Congo, Dem. Rep.","COD","Africa","Democratic Republic of the Congo",180
+"Congo, Rep.","COG","Africa","Congo",178
+"Costa Rica","CRI","Americas","Costa Rica",188
+"Cote d'Ivoire","CIV","Africa","Côte d’Ivoire",384
+"Croatia","HRV","Europe","Croatia",191
+"Cuba","CUB","Americas","Cuba",192
+"Curacao","CUW","Americas","Curaçao",531
+"Cyprus","CYP","Asia","Cyprus",196
+"Czechia","CZE","Europe","Czechia",203
+"Denmark","DNK","Europe","Denmark",208
+"Djibouti","DJI","Africa","Djibouti",262
+"Dominica","DMA","Americas","Dominica",212
+"Dominican Republic","DOM","Americas","Dominican Republic",214
+"Ecuador","ECU","Americas","Ecuador",218
+"Egypt, Arab Rep.","EGY","Africa","Egypt",818
+"El Salvador","SLV","Americas","El Salvador",222
+"Equatorial Guinea","GNQ","Africa","Equatorial Guinea",226
+"Eritrea","ERI","Africa","Eritrea",232
+"Estonia","EST","Europe","Estonia",233
+"Eswatini","SWZ","Africa","Eswatini",748
+"Ethiopia","ETH","Africa","Ethiopia",231
+"Faroe Islands","FRO","Europe","Faroe Islands",234
+"Fiji","FJI","Oceania","Fiji",242
+"Finland","FIN","Europe","Finland",246
+"France","FRA","Europe","France",250
+"French Polynesia","PYF","Oceania","French Polynesia",258
+"Gabon","GAB","Africa","Gabon",266
+"Gambia, The","GMB","Africa","Gambia",270
+"Georgia","GEO","Asia","Georgia",268
+"Germany","DEU","Europe","Germany",276
+"Ghana","GHA","Africa","Ghana",288
+"Gibraltar","GIB","Europe","Gibraltar",292
+"Greece","GRC","Europe","Greece",300
+"Greenland","GRL","Americas","Greenland",304
+"Grenada","GRD","Americas","Grenada",308
+"Guam","GUM","Oceania","Guam",316
+"Guatemala","GTM","Americas","Guatemala",320
+"Guinea","GIN","Africa","Guinea",324
+"Guinea-Bissau","GNB","Africa","Guinea-Bissau",624
+"Guyana","GUY","Americas","Guyana",328
+"Haiti","HTI","Americas","Haiti",332
+"Honduras","HND","Americas","Honduras",340
+"Hong Kong SAR, China","HKG","Asia","China, Hong Kong Special Administrative Region",344
+"Hungary","HUN","Europe","Hungary",348
+"Iceland","ISL","Europe","Iceland",352
+"India","IND","Asia","India",356
+"Indonesia","IDN","Asia","Indonesia",360
+"Iran, Islamic Rep.","IRN","Asia","Iran (Islamic Republic of)",364
+"Iraq","IRQ","Asia","Iraq",368
+"Ireland","IRL","Europe","Ireland",372
+"Isle of Man","IMN","Europe","Isle of Man",833
+"Israel","ISR","Asia","Israel",376
+"Italy","ITA","Europe","Italy",380
+"Jamaica","JAM","Americas","Jamaica",388
+"Japan","JPN","Asia","Japan",392
+"Jordan","JOR","Asia","Jordan",400
+"Kazakhstan","KAZ","Asia","Kazakhstan",398
+"Kenya","KEN","Africa","Kenya",404
+"Kiribati","KIR","Oceania","Kiribati",296
+"Korea, Dem. People's Rep.","PRK","Asia","Democratic People's Republic of Korea",408
+"Korea, Rep.","KOR","Asia","Republic of Korea",410
+"Kuwait","KWT","Asia","Kuwait",414
+"Kyrgyz Republic","KGZ","Asia","Kyrgyzstan",417
+"Lao PDR","LAO","Asia","Lao People's Democratic Republic",418
+"Latvia","LVA","Europe","Latvia",428
+"Lebanon","LBN","Asia","Lebanon",422
+"Lesotho","LSO","Africa","Lesotho",426
+"Liberia","LBR","Africa","Liberia",430
+"Libya","LBY","Africa","Libya",434
+"Liechtenstein","LIE","Europe","Liechtenstein",438
+"Lithuania","LTU","Europe","Lithuania",440
+"Luxembourg","LUX","Europe","Luxembourg",442
+"Macao SAR, China","MAC","Asia","China, Macao Special Administrative Region",446
+"Madagascar","MDG","Africa","Madagascar",450
+"Malawi","MWI","Africa","Malawi",454
+"Malaysia","MYS","Asia","Malaysia",458
+"Maldives","MDV","Asia","Maldives",462
+"Mali","MLI","Africa","Mali",466
+"Malta","MLT","Europe","Malta",470
+"Marshall Islands","MHL","Oceania","Marshall Islands",584
+"Mauritania","MRT","Africa","Mauritania",478
+"Mauritius","MUS","Africa","Mauritius",480
+"Mexico","MEX","Americas","Mexico",484
+"Micronesia, Fed. Sts.","FSM","Oceania","Micronesia (Federated States of)",583
+"Moldova","MDA","Europe","Republic of Moldova",498
+"Monaco","MCO","Europe","Monaco",492
+"Mongolia","MNG","Asia","Mongolia",496
+"Montenegro","MNE","Europe","Montenegro",499
+"Morocco","MAR","Africa","Morocco",504
+"Mozambique","MOZ","Africa","Mozambique",508
+"Myanmar","MMR","Asia","Myanmar",104
+"Namibia","NAM","Africa","Namibia",516
+"Nauru","NRU","Oceania","Nauru",520
+"Nepal","NPL","Asia","Nepal",524
+"Netherlands","NLD","Europe","Netherlands (Kingdom of the)",528
+"New Caledonia","NCL","Oceania","New Caledonia",540
+"New Zealand","NZL","Oceania","New Zealand",554
+"Nicaragua","NIC","Americas","Nicaragua",558
+"Niger","NER","Africa","Niger",562
+"Nigeria","NGA","Africa","Nigeria",566
+"North Macedonia","MKD","Europe","North Macedonia",807
+"Northern Mariana Islands","MNP","Oceania","Northern Mariana Islands",580
+"Norway","NOR","Europe","Norway",578
+"Oman","OMN","Asia","Oman",512
+"Pakistan","PAK","Asia","Pakistan",586
+"Palau","PLW","Oceania","Palau",585
+"Panama","PAN","Americas","Panama",591
+"Papua New Guinea","PNG","Oceania","Papua New Guinea",598
+"Paraguay","PRY","Americas","Paraguay",600
+"Peru","PER","Americas","Peru",604
+"Philippines","PHL","Asia","Philippines",608
+"Poland","POL","Europe","Poland",616
+"Portugal","PRT","Europe","Portugal",620
+"Puerto Rico","PRI","Americas","Puerto Rico",630
+"Qatar","QAT","Asia","Qatar",634
+"Romania","ROU","Europe","Romania",642
+"Russian Federation","RUS","Europe","Russian Federation",643
+"Rwanda","RWA","Africa","Rwanda",646
+"Samoa","WSM","Oceania","Samoa",882
+"San Marino","SMR","Europe","San Marino",674
+"Sao Tome and Principe","STP","Africa","Sao Tome and Principe",678
+"Saudi Arabia","SAU","Asia","Saudi Arabia",682
+"Senegal","SEN","Africa","Senegal",686
+"Serbia","SRB","Europe","Serbia",688
+"Seychelles","SYC","Africa","Seychelles",690
+"Sierra Leone","SLE","Africa","Sierra Leone",694
+"Singapore","SGP","Asia","Singapore",702
+"Sint Maarten (Dutch part)","SXM","Americas","Sint Maarten (Dutch part)",534
+"Slovak Republic","SVK","Europe","Slovakia",703
+"Slovenia","SVN","Europe","Slovenia",705
+"Solomon Islands","SLB","Oceania","Solomon Islands",90
+"Somalia","SOM","Africa","Somalia",706
+"South Africa","ZAF","Africa","South Africa",710
+"South Sudan","SSD","Africa","South Sudan",728
+"Spain","ESP","Europe","Spain",724
+"Sri Lanka","LKA","Asia","Sri Lanka",144
+"St. Kitts and Nevis","KNA","Americas","Saint Kitts and Nevis",659
+"St. Lucia","LCA","Americas","Saint Lucia",662
+"St. Martin (French part)","MAF","Americas","Saint Martin (French Part)",663
+"St. Vincent and the Grenadines","VCT","Americas","Saint Vincent and the Grenadines",670
+"Sudan","SDN","Africa","Sudan",729
+"Suriname","SUR","Americas","Suriname",740
+"Sweden","SWE","Europe","Sweden",752
+"Switzerland","CHE","Europe","Switzerland",756
+"Syrian Arab Republic","SYR","Asia","Syrian Arab Republic",760
+"Tajikistan","TJK","Asia","Tajikistan",762
+"Tanzania","TZA","Africa","United Republic of Tanzania",834
+"Thailand","THA","Asia","Thailand",764
+"Timor-Leste","TLS","Asia","Timor-Leste",626
+"Togo","TGO","Africa","Togo",768
+"Tonga","TON","Oceania","Tonga",776
+"Trinidad and Tobago","TTO","Americas","Trinidad and Tobago",780
+"Tunisia","TUN","Africa","Tunisia",788
+"Turkiye","TUR","Asia","Türkiye",792
+"Turkmenistan","TKM","Asia","Turkmenistan",795
+"Turks and Caicos Islands","TCA","Americas","Turks and Caicos Islands",796
+"Tuvalu","TUV","Oceania","Tuvalu",798
+"Uganda","UGA","Africa","Uganda",800
+"Ukraine","UKR","Europe","Ukraine",804
+"United Arab Emirates","ARE","Asia","United Arab Emirates",784
+"United Kingdom","GBR","Europe","United Kingdom of Great Britain and Northern Ireland",826
+"United States","USA","Americas","United States of America",840
+"Uruguay","URY","Americas","Uruguay",858
+"Uzbekistan","UZB","Asia","Uzbekistan",860
+"Vanuatu","VUT","Oceania","Vanuatu",548
+"Venezuela, RB","VEN","Americas","Venezuela (Bolivarian Republic of)",862
+"Viet Nam","VNM","Asia","Viet Nam",704
+"Virgin Islands (U.S.)","VIR","Americas","United States Virgin Islands",850
+"West Bank and Gaza","PSE","Asia","State of Palestine",275
+"Yemen, Rep.","YEM","Asia","Yemen",887
+"Zambia","ZMB","Africa","Zambia",894
+"Zimbabwe","ZWE","Africa","Zimbabwe",716

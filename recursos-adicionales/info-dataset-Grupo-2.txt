@@ -1,0 +1,36 @@
+Datasets
+#######################################
+- Emisiones de gases invernadero GHG por kilo calorías de alimento consumido.
+ghg-kcal-poore.csv
+
+https://ourworldindata.org/grapher/ghg-kcal-poore
+
+
+#######################################
+- Especies animales amenazadas
+SYB66_313_202310_Threatened Species.csv
+
+https://www.iucnredlist.org/
+https://www.iucnredlist.org/assessment/red-list-index
+
+
+Código de países
+https://unstats.un.org/unsd/methodology/m49/overview/
+https://unstats.un.org/unsd/methodology/m49/https://countrycodebase.com/es/iso-codes/
+
+Datos del Banco Mundial
+https://databank.worldbank.org/source/world-development-indicators
+https://databank.worldbank.org/home
+
+Polígonos de países para cartografía
+https://geojson-maps.kyd.au/
+https://www.naturalearthdata.com/
+
+Datos de Argentina
+https://datos.gob.ar/dataset
+
+#######################################
+- Deforestación del Amazonas
+drivers-forest-loss-brazil-amazon.csv
+
+https://ourworldindata.org/grapher/drivers-forest-loss-brazil-amazon
